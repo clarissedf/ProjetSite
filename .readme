@@ -1,0 +1,10 @@
+Pages :
+    - Page visisteur (apercu demandes trad + Connexion)
+    - Connecté : Page suivant utilisateur
+        Demandeur :
+            - Deposer demande traduction (documents + infos)
+            - Recuperer documents traduits
+        Traducteur :
+            - Visualiser demandes traductions
+            - Telecharger documents à traduire
+            - Mettre en ligne documents traduits
